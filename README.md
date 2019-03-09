@@ -22,10 +22,11 @@ The logic behind this program is as follows:
 
 (6) After the txt file of all random passcodes is made, suitable programs can be used for further hacking by brute force.
  
- -->How tu use?
- (1)Make sure you have python installed
+ -->How to use?
  
- (2)run the Installation.py file
+ (1)Make sure you have python3 installed
  
- (3)run Main.py file 
+ (2)Run the Installation.py file by typing python Installation.py in cmd/shell
+ 
+ (3)Run Main.py file by typing python Main.py in cmd/shell 
  Enjoy!
