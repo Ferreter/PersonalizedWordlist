@@ -21,3 +21,11 @@ The logic behind this program is as follows:
 (5) Another txt file is made that save all the inputs made by the Script for future purposes
 
 (6) After the txt file of all random passcodes is made, suitable programs can be used for further hacking by brute force.
+ 
+ -->How tu use?
+ (1)Make sure you have python installed
+ 
+ (2)run the Installation.py file
+ 
+ (3)run Main.py file 
+ Enjoy!
