@@ -1,5 +1,5 @@
 # PersonalizedWordlist
-This program helps you generate personalized wordlist by answering some of the question about victim
+This program helps you generate personalized wordlist by answering some of the question about the person you wanna generate wordlist for. (Inspired by Mr Robot)
 **This Program is only made for Educational Purposes**
 
 Note: The Number of Keywords Generated is directly propotional to the Input given by User
